@@ -1213,7 +1213,7 @@ p.form-message.error {
   text-align: center;
   background-color: #0067f4;
   bottom: 10px;
-  right: 20px;
+  left: 20px;
   z-index: 999;
   color: #fff;
   font-size: 20px;
